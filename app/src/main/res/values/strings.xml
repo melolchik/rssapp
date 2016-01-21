@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RssApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_add">Добавить канал</string>
+    <string name="error_internet">Ошибка соединения или такой адрес не существует</string>
+    <string name="error_parsing">Ошибка парсинка. Это не RSS канал</string>
+    <string name="error_no_rss">Не RSS канал</string>
+    <string name="input_rss">Введите RSS адрес: </string>
+</resources>
